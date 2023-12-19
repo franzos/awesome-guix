@@ -13,6 +13,7 @@ Also helpful:
 - [pjotrp/guix-notes](https://gitlab.com/pjotrp/guix-notes)
 - [The Guix System image API](https://othacehe.org/the-guix-system-image-api.html)
 - [Guile Hacker's Notebook](https://jeko.frama.io/)
+- [5 Reasons to Try GNU Guix in 2022](https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/)
 
 ## Channels
 
@@ -79,6 +80,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - guix
   - Libera IRC `#guix`, `#info-guix`
   - [mailing list](https://guix.gnu.org/contact/)
+  - [reddit r/GUIX](https://www.reddit.com/r/GUIX)
   - Telegram [https://t.me/gnu_guix_en](https://t.me/gnu_guix_en), [https://t.me/guixcn](https://t.me/guixcn)
 - nonguix
   - Libera IRC `#nonguix`
