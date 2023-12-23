@@ -18,7 +18,15 @@ Also helpful:
 - [Installing the GNU Guix Package Manager](https://systemcrafters.net/craft-your-system-with-guix/installing-the-package-manager/) on Debian, Arch, Fedora ..
 - [Guix Gaming Desktop](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
 - [A Home Router with GNU Guix](https://timmydouglas.com/2021/02/07/guix-router.html)
-- [YouTube Playlist all about Guile and Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ)
+- [YouTube Playlist: All about Guile and Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ)
+- [YouTube Playlist: Craft Your System with GNU Guix](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
+
+Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcements, guides on how-to package stuff and cool things like [Music Production on Guix System](https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/).
+
+## Tools
+
+- [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
+- [System Config Generator](https://www.pantherx.org/configs/) for PantherX OS (similiar to guix)
 
 ## Channels
 
@@ -69,8 +77,8 @@ Substitutes (aka pre-build Software) come from here:
 - [https://berlin.guix.gnu.org/](https://berlin.guix.gnu.org/)
 - [https://substitutes.nonguix.org/](https://substitutes.nonguix.org/)
 - [https://packages.pantherx.org/](https://packages.pantherx.org/)
-- [https://guix.tobias.gr/substitutes/](https://guix.tobias.gr/substitutes/)
 - [http://substitutes.guix.sama.re/](http://substitutes.guix.sama.re/)
+- [https://guix.tobias.gr/substitutes/](https://guix.tobias.gr/substitutes/)
 
 Love the quote, from the last one:
 
@@ -94,6 +102,7 @@ When you're stuck, it's super helpful to see what others are doing:
 ## Misc
 
 - [guix-vm](https://github.com/palfrey/guix-vm): Scripts and support necessary to make a GuixSD Virtualbox image
+- [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
 
 ## Communities
 
@@ -119,6 +128,9 @@ Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/
 
 ---
 
-Some of these links have been copied from [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/), other's I've collected myself over the years.
+Other awesome guix lists:
+
+- [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/)
+- [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix)
 
 Something's wrong? Submit a MR.
