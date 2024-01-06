@@ -48,10 +48,14 @@ Software
 - [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
 - [sops-guix](https://sr.ht/~fishinthecalculator/sops-guix/): Secure secret management with Guix
 - [gocix](https://sr.ht/~fishinthecalculator/gocix/): Community managed library of Guix services
+- [small-guix](https://gitlab.com/orang3/small-guix): Small Guix
+- [guix-cn](https://github.com/guixcn/guix-channel): Guix China 社区的 Guix 频道
+- [bin-guix](https://github.com/ieugen/bin-guix): Binary packages for guix
 - [latwhatson/guix-channel](https://github.com/flatwhatson/guix-channel)
 
 If you are looking for a package index:
 
+- [toys.whereis.みんな](https://toys.whereis.みんな/): JSON API for exploring Guix channels on the internets.
 - [packages.guix.gnu.org](https://packages.guix.gnu.org/) (guix)
 - [pantherx.org/packages](https://www.pantherx.org/packages/) (guix, nonguix, pantherx)
 
