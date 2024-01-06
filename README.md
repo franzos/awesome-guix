@@ -46,6 +46,8 @@ Software
 - [guix-science](https://github.com/guix-science/guix-science): Free scientific packages for GNU Guix.
 - [guix-pkgs](https://notabug.org/jlicht/guix-pkgs.git): Personal packages
 - [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
+- [sops-guix](https://sr.ht/~fishinthecalculator/sops-guix/): Secure secret management with Guix
+- [gocix](https://sr.ht/~fishinthecalculator/gocix/): Community managed library of Guix services
 - [latwhatson/guix-channel](https://github.com/flatwhatson/guix-channel)
 
 If you are looking for a package index:
