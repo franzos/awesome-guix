@@ -51,6 +51,7 @@ Software
 - [small-guix](https://gitlab.com/orang3/small-guix): Small Guix
 - [guix-cn](https://github.com/guixcn/guix-channel): Guix China 社区的 Guix 频道
 - [bin-guix](https://github.com/ieugen/bin-guix): Binary packages for guix
+- [rosenthal](https://github.com/rakino/Rosenthal): Experiments
 - [latwhatson/guix-channel](https://github.com/flatwhatson/guix-channel)
 
 If you are looking for a package index:
@@ -58,6 +59,7 @@ If you are looking for a package index:
 - [toys.whereis.みんな](https://toys.whereis.みんな/): JSON API for exploring Guix channels on the internets.
 - [packages.guix.gnu.org](https://packages.guix.gnu.org/) (guix)
 - [pantherx.org/packages](https://www.pantherx.org/packages/) (guix, nonguix, pantherx)
+- [hpc.guix.info/browse](https://hpc.guix.info/browse) (guix, guix-hpc, guix-past, guix-science, guix-cran)
 
 ### Wishlist
 
