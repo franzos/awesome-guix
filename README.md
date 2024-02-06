@@ -20,6 +20,7 @@ Also helpful:
 - [A Home Router with GNU Guix](https://timmydouglas.com/2021/02/07/guix-router.html)
 - [YouTube Playlist: All about Guile and Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ)
 - [YouTube Playlist: Craft Your System with GNU Guix](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
+- [Shell examples: Run software that's not available on guix](https://github.com/nuthub/guix-shell-examples)
 
 Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcements, guides on how-to package stuff and cool things like [Music Production on Guix System](https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/).
 
