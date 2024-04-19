@@ -76,6 +76,7 @@ If you are looking for a package index:
 
 - [guix](https://guix.gnu.org/)
 - [pantherx](https://www.pantherx.org/)
+- [rde](https://sr.ht/~abcdw/rde/)
 
 ## Build Server
 
