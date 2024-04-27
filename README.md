@@ -55,6 +55,7 @@ Software
 - [rosenthal](https://github.com/rakino/Rosenthal): Experiments
 - [latwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel
 - [guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
+- [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix 
 
 If you are looking for a package index:
 
