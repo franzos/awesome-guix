@@ -92,7 +92,7 @@ Substitutes (aka pre-build Software) come from here:
 - [http://substitutes.guix.sama.re/](http://substitutes.guix.sama.re/)
 - [https://guix.tobias.gr/substitutes/](https://guix.tobias.gr/substitutes/)
 
-Love the quote, from the last one:
+Love the quote, from the last one; though it seems Firefox has fallen into this category too ~
 
 > Only malware, such as Chromium, will never be distributed.
 
@@ -115,6 +115,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 - [guix-vm](https://github.com/palfrey/guix-vm): Scripts and support necessary to make a GuixSD Virtualbox image
 - [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
+- [guix-shell-examples](https://github.com/nuthub/guix-shell-examples): Run software that is not available on Guix
 
 ## Communities
 
