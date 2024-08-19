@@ -56,6 +56,7 @@ Software
 - [latwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel
 - [guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
 - [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix 
+- [guix-rustup](https://github.com/declantsien/guix-rustup): Guix Rustup
 
 If you are looking for a package index:
 
