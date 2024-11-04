@@ -47,9 +47,9 @@ Software
 - [guix-science](https://github.com/guix-science/guix-science): Free scientific packages for GNU Guix.
 - [guix-pkgs](https://notabug.org/jlicht/guix-pkgs.git): Personal packages
 - [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
-- [sops-guix](https://sr.ht/~fishinthecalculator/sops-guix/): Secure secret management with Guix
-- [gocix](https://sr.ht/~fishinthecalculator/gocix/): Community managed library of Guix services
-- [small-guix](https://gitlab.com/orang3/small-guix): Small Guix
+- ~~[sops-guix](https://sr.ht/~fishinthecalculator/sops-guix/): Secure secret management with Guix~~ (deleted)
+- ~~[gocix](https://sr.ht/~fishinthecalculator/gocix/): Community managed library of Guix services~~ (deleted)
+- ~~[small-guix](https://gitlab.com/orang3/small-guix): Small Guix~~ (private)
 - [guix-cn](https://github.com/guixcn/guix-channel): Guix China 社区的 Guix 频道
 - [bin-guix](https://github.com/ieugen/bin-guix): Binary packages for guix
 - [rosenthal](https://github.com/rakino/Rosenthal): Experiments
