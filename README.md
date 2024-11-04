@@ -57,6 +57,9 @@ Software
 - [guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
 - [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix 
 - [guix-rustup](https://github.com/declantsien/guix-rustup): Guix Rustup
+- [guix-tailscale](https://github.com/umanwizard/guix-tailscale): Providing tailscale, tailscaled, and tailscale-service-type
+- [guixrus](https://git.sr.ht/~whereiseveryone/guixrus): A Guix channel, maintained by the whereiseveryone community.
+- [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services 
 
 If you are looking for a package index:
 
