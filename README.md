@@ -120,6 +120,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [guix-vm](https://github.com/palfrey/guix-vm): Scripts and support necessary to make a GuixSD Virtualbox image
 - [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
 - [guix-shell-examples](https://github.com/nuthub/guix-shell-examples): Run software that is not available on Guix
+- [flatpak.org/setup](https://flatpak.org/setup/GNU%20Guix): Flatpak on Guix
 
 ## Communities
 
