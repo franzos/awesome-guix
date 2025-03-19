@@ -60,6 +60,7 @@ Software
 - [guix-tailscale](https://github.com/umanwizard/guix-tailscale): Providing tailscale, tailscaled, and tailscale-service-type
 - [guixrus](https://git.sr.ht/~whereiseveryone/guixrus): A Guix channel, maintained by the whereiseveryone community.
 - [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services 
+- [gundroid](https://github.com/shegeley/gundroid): Android tools packages in Guix
 
 If you are looking for a package index:
 
