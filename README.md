@@ -147,7 +147,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/en/html_node/Binary-Installation.html)
 
-- [Guix Desktop-Environment Integration](https://gist.github.com/tareifz/e2a9f2b8a550bf5ec5471bf91f194aa5)
+- [Guix Desktop-Environment Integration](https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f)
 
 ---
 
