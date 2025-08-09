@@ -62,6 +62,7 @@ Software
 - [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services 
 - [gundroid](https://github.com/shegeley/gundroid): Android tools packages in Guix
 - [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda): Haskell, Rust packages and toolchain, libre audio software, among others
+- [guix-cran](https://github.com/guix-science/guix-cran): Contains all R packages not available in Guix yet.
 
 If you are looking for a package index:
 
