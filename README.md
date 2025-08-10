@@ -45,7 +45,7 @@ Software
 - [guix-past](https://gitlab.inria.fr/guix-hpc/guix-past): GNU Guix channel providing packages from the past.
 - [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc): Extensions of GNU Guix for high-performance computing.
 - [guix-science](https://codeberg.org/guix-science/guix-science): Free scientific packages for GNU Guix.
-- [guix-pkgs](https://notabug.org/jlicht/guix-pkgs.git): Personal packages
+- [jlicht/guix-pkgs](https://notabug.org/jlicht/guix-pkgs.git): Personal packages
 - [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
 - ~~[sops-guix](https://sr.ht/~fishinthecalculator/sops-guix/): Secure secret management with Guix~~ (deleted)
 - ~~[gocix](https://sr.ht/~fishinthecalculator/gocix/): Community managed library of Guix services~~ (deleted)
@@ -54,7 +54,7 @@ Software
 - [bin-guix](https://github.com/ieugen/bin-guix): Binary packages for guix
 - [rosenthal](https://github.com/rakino/Rosenthal): Experiments
 - [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel
-- [guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
+- [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
 - [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix 
 - [guix-rustup](https://github.com/declantsien/guix-rustup): Guix Rustup
 - [guix-tailscale](https://github.com/umanwizard/guix-tailscale): Providing tailscale, tailscaled, and tailscale-service-type
