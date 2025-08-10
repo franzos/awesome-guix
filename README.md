@@ -64,6 +64,7 @@ Software
 - [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda): Haskell, Rust packages and toolchain, libre audio software, among others
 - [guix-cran](https://github.com/guix-science/guix-cran): Contains all R packages not available in Guix yet.
 - [saayix](https://codeberg.org/look/saayix): Personal GNU/Guix channel for developing and sharing services and packages.
+- [radix](https://codeberg.org/anemofilia/radix): Personal GNU Guix channel, which contains Free Software only.
 
 If you are looking for a package index:
 
