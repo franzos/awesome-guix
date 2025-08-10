@@ -53,7 +53,7 @@ Software
 - [guix-cn](https://github.com/guixcn/guix-channel): Guix China 社区的 Guix 频道
 - [bin-guix](https://github.com/ieugen/bin-guix): Binary packages for guix
 - [rosenthal](https://github.com/rakino/Rosenthal): Experiments
-- [latwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel
+- [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel
 - [guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
 - [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix 
 - [guix-rustup](https://github.com/declantsien/guix-rustup): Guix Rustup
