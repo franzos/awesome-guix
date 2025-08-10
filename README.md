@@ -130,22 +130,24 @@ When you're stuck, it's super helpful to see what others are doing:
 ## Communities
 
 - guix
-  - Libera IRC `#guix`, `#info-guix`
-  - [mailing list](https://guix.gnu.org/contact/)
-  - [reddit r/GUIX](https://www.reddit.com/r/GUIX)
-  - Telegram [https://t.me/gnu_guix_en](https://t.me/gnu_guix_en), [https://t.me/guixcn](https://t.me/guixcn)
+  - Libera IRC `#guix`, `#info-guix`, `#guixcn`
+  - [Mailing List](https://guix.gnu.org/contact/)
+  - [Reddit r/GUIX](https://www.reddit.com/r/GUIX)
+  - Telegram [gnu_guix_en](https://t.me/gnu_guix_en), [gnu_guix_ru](https://t.me/gnu_guix_ru), [gnu_guix_br](https://t.me/gnu_guix_br), [guixcn](https://t.me/guixcn)
 - nonguix
   - Libera IRC `#nonguix`
 - pantherx
   - Libera IRC `#pantherx`
-  - Matrix [https://matrix.to/#/#pantherx:tchncs.de](https://matrix.to/#/#pantherx:tchncs.de)
-  - Telegram [https://t.me/pantherxos](https://t.me/pantherxos)
+  - Matrix [#pantherx:tchncs.de](https://matrix.to/#/#pantherx:tchncs.de)
+  - Telegram [pantherxos](https://t.me/pantherxos)
 
 ## Guix on other Distros
 
+- [nix](https://search.nixos.org/packages?query=guix&show=guix)
 - [arch](https://aur.archlinux.org/packages/guix)
 - [debian](https://packages.debian.org/search?keywords=guix)
 - [fedora](https://copr.fedorainfracloud.org/coprs/lantw44/guix/)
+- [alpine](https://pkgs.alpinelinux.org/packages?name=guix&branch=edge&arch=)
 
 Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/en/html_node/Binary-Installation.html)
 
