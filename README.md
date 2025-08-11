@@ -33,7 +33,9 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 
 Software
 
-- [guix](https://git.savannah.gnu.org/cgit/guix.git): Primary channel
+- Primary channel:
+	- [codeberg](https://codeberg.org/guix/guix)
+	- legacy repository: [GNU savannah](https://git.savannah.gnu.org/cgit/guix.git)
 - [nonguix](https://gitlab.com/nonguix/nonguix): Guix channel for packages that can't be included upstream
 - [pantherx](https://git.pantherx.org/development/panther): PantherX system and packages
 - [games](https://gitlab.com/guix-gaming-channels/games): Collection of non-free game packages for Guix
@@ -80,7 +82,9 @@ If you are looking for a package index:
 
 ### Issue tracker
 
-- [guix](https://issues.guix.gnu.org/)
+- Guix itself:
+	- [codeberg issues](https://codeberg.org/guix/guix/issues)
+	- legacy mail-based issue tracker: [debbugs](https://issues.guix.gnu.org/)
 - [nonguix](https://gitlab.com/nonguix/nonguix/-/issues)
 - [pantherx](https://github.com/PantherXOS/panther/issues)
 
