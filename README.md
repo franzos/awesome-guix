@@ -125,6 +125,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix)
 - [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads)
 - [rommudoh/guix](https://codeberg.org/rommudoh/guix)
+- [anemofilia/zero](https://codeberg.org/anemofilia/zero)
 
 ## Misc
 
