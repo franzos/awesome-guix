@@ -116,16 +116,17 @@ Want to run your own substitute server? Checkout [cuirass](https://guix.gnu.org/
 
 When you're stuck, it's super helpful to see what others are doing:
 
-- [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration)
-- [alezost/guix-config](https://github.com/alezost/guix-config)
-- [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config)
+- [jba23/sss](https://codeberg.org/jjba23/sss)
 - [aurtzy/guix-config](https://github.com/aurtzy/guix-config)
 - [hiecaq/guix-config](https://github.com/hiecaq/guix-config)
 - [thomassgn/guixsd-configuration](https://notabug.org/thomassgn/guixsd-configuration)
-- [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix)
+- [podiki/dot.me/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix)
 - [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads)
 - [rommudoh/guix](https://codeberg.org/rommudoh/guix)
 - [anemofilia/zero](https://codeberg.org/anemofilia/zero)
+- [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration)
+- [alezost/guix-config](https://github.com/alezost/guix-config)
+- [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config)
 
 ## Misc
 
