@@ -69,7 +69,7 @@ Software
 
 If you are looking for a package index:
 
-- [toys.whereis.みんな](https://toys.whereis.social/): JSON API for exploring Guix channels on the internets.
+- [toys.whereis.social](https://toys.whereis.social/): JSON API for exploring Guix channels on the internets.
 - [packages.guix.gnu.org](https://packages.guix.gnu.org/) (guix)
 - [pantherx.org/packages](https://www.pantherx.org/packages/) (guix, nonguix, pantherx)
 - [hpc.guix.info/browse](https://hpc.guix.info/browse) (guix, guix-hpc, guix-past, guix-science, guix-cran)
