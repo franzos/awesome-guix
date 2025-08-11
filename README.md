@@ -65,6 +65,7 @@ Software
 - [guix-cran](https://github.com/guix-science/guix-cran): Contains all R packages not available in Guix yet.
 - [saayix](https://codeberg.org/look/saayix): Personal GNU/Guix channel for developing and sharing services and packages.
 - [radix](https://codeberg.org/anemofilia/radix): Personal GNU Guix channel, which contains Free Software only.
+- [abbe](https://codeberg.org/group/guix-modules): Contains many up-to-date rust and go apps built with custom nix-like build systems, and more.
 
 If you are looking for a package index:
 
