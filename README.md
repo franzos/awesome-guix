@@ -63,11 +63,12 @@ Software
 - [guixrus](https://git.sr.ht/~whereiseveryone/guixrus): A Guix channel, maintained by the whereiseveryone community.
 - [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services 
 - [gundroid](https://github.com/shegeley/gundroid): Android tools packages in Guix
-- [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda): Haskell, Rust packages and toolchain, libre audio software, among others
+- [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda): Haskell, Rust packages and toolchain, libre audio software, emacs-next, among others
 - [guix-cran](https://github.com/guix-science/guix-cran): Contains all R packages not available in Guix yet.
 - [saayix](https://codeberg.org/look/saayix): Personal GNU/Guix channel for developing and sharing services and packages.
 - [radix](https://codeberg.org/anemofilia/radix): Personal GNU Guix channel, which contains Free Software only.
 - [abbe](https://codeberg.org/group/guix-modules): Contains many up-to-date rust and go apps built with custom nix-like build systems, and more.
+- [emacs-master](https://github.com/gs-101/emacs-master): Guix channel for the latest Emacs from the master branch.
 
 If you are looking for a package index:
 
