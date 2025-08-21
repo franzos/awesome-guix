@@ -80,6 +80,7 @@ If you are looking for a package index:
 ### Wishlist
 
 - [Guix/Wishlist](https://libreplanet.org/wiki/Group:Guix/Wishlist): software that users of GNU Guix would like to see packaged
+- [Codeberg/Wishlist](https://codeberg.org/guix/guix/issues?labels=422988): feature/update requests and ideas users would like to see implemented in GNU Guix.
 
 ### Issue tracker
 
