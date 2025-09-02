@@ -157,6 +157,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [arch](https://aur.archlinux.org/packages/guix)
 - [debian](https://packages.debian.org/search?keywords=guix)
 - [fedora](https://copr.fedorainfracloud.org/coprs/lantw44/guix/)
+- [opensuse](https://software.opensuse.org/package/guix)
 - [alpine](https://pkgs.alpinelinux.org/packages?name=guix&branch=edge&arch=)
 
 Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/en/html_node/Binary-Installation.html)
