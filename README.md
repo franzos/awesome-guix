@@ -37,7 +37,7 @@ Software
 	- [codeberg](https://codeberg.org/guix/guix)
 	- legacy repository: [GNU savannah](https://git.savannah.gnu.org/cgit/guix.git)
 - [nonguix](https://gitlab.com/nonguix/nonguix): Guix channel for packages that can't be included upstream
-- [pantherx](https://git.pantherx.org/development/panther): PantherX system and packages
+- [pantherx](https://codeberg.org/gofranz/panther): PantherX system and packages
 - [games](https://gitlab.com/guix-gaming-channels/games): Collection of non-free game packages for Guix
 - [guix-more](https://framagit.org/tyreunom/guix-more): More packages for Guix, not yet accepted upstream or unacceptable
 - [guix-android](https://framagit.org/tyreunom/guix-android): Experimental Guix packages for Android development
