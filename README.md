@@ -47,6 +47,7 @@ Software
 - [guix-past](https://gitlab.inria.fr/guix-hpc/guix-past): GNU Guix channel providing packages from the past.
 - [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc): Extensions of GNU Guix for high-performance computing.
 - [guix-science](https://codeberg.org/guix-science/guix-science): Free scientific packages for GNU Guix.
+- [guix-science-nonfree](https://codeberg.org/guix-science/guix-science-nonfree): Non-free scientific packages for GNU Guix.
 - [jlicht/guix-pkgs](https://notabug.org/jlicht/guix-pkgs.git): Personal packages
 - [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
 - [sops-guix](https://github.com/fishinthecalculator/sops-guix): Secure secret management with Guix
