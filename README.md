@@ -130,6 +130,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [rommudoh/guix](https://codeberg.org/rommudoh/guix)
 - [anemofilia/zero](https://codeberg.org/anemofilia/zero)
 - [jba23/sss](https://codeberg.org/jjba23/sss)
+- [hako/Testament](https://codeberg.org/hako/Testament)
 
 ## Misc
 
