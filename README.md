@@ -156,6 +156,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [nix](https://search.nixos.org/packages?query=guix&show=guix)
 - [arch](https://aur.archlinux.org/packages/guix)
 - [debian](https://packages.debian.org/search?keywords=guix)
+- [ubuntu](https://packages.ubuntu.com/plucky/guix)
 - [fedora](https://copr.fedorainfracloud.org/coprs/lantw44/guix/)
 - [opensuse](https://software.opensuse.org/package/guix)
 - [alpine](https://pkgs.alpinelinux.org/packages?name=guix&branch=edge&arch=)
