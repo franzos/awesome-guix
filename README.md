@@ -134,6 +134,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [hako/Testament](https://codeberg.org/hako/Testament)
 - [look/misako](https://codeberg.org/look/misako)
 - [VnPower/rkgk](https://codeberg.org/VnPower/rkgk)
+- [mrh/dotfiles](https://codeberg.org/mrh/dotfiles)
 
 ## Misc
 
