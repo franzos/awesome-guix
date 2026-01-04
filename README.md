@@ -159,10 +159,6 @@ When you're stuck, it's super helpful to see what others are doing:
   - Telegram [gnu_guix_en](https://t.me/gnu_guix_en), [gnu_guix_ru](https://t.me/gnu_guix_ru), [gnu_guix_br](https://t.me/gnu_guix_br), [guixcn](https://t.me/guixcn)
 - nonguix
   - Libera IRC `#nonguix`
-- pantherx
-  - Libera IRC `#pantherx`
-  - Matrix [#pantherx:tchncs.de](https://matrix.to/#/#pantherx:tchncs.de)
-  - Telegram [pantherxos](https://t.me/pantherxos)
 
 ## Guix on other Distros
 
