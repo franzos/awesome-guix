@@ -72,6 +72,7 @@ Software
 - [emacs-master](https://github.com/gs-101/emacs-master): Guix channel for the latest Emacs from the master branch.
 - [pognul-guix-channel](https://codeberg.org/ch4og/pognul-guix-channel): Сustom and nonfree packages.
 - [asahi-guix/channel](https://codeberg.org/asahi-guix/channel): Run the GNU operating system with the Asahi Linux kernel on Apple Silicon devices.
+- [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface): Implemenation of linux-surface for GNU Guix
 
 If you are looking for a package index:
 
