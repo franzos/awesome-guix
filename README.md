@@ -141,6 +141,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [mrh/dotfiles](https://codeberg.org/mrh/dotfiles)
 - [franzos/dotfiles](https://github.com/franzos/dotfiles)
 - [berkeley/guix-config](https://codeberg.org/berkeley/guix-config)
+- [hako/Testament](https://codeberg.org/hako/Testament)
 
 ## Misc
 
