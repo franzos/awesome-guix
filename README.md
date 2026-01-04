@@ -135,6 +135,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [look/misako](https://codeberg.org/look/misako)
 - [VnPower/rkgk](https://codeberg.org/VnPower/rkgk)
 - [mrh/dotfiles](https://codeberg.org/mrh/dotfiles)
+- [franzos/dotfiles](https://github.com/franzos/dotfiles)
 
 ## Misc
 
