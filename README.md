@@ -110,7 +110,7 @@ Substitutes (aka pre-build Software) come from here:
 - [https://bordeaux.guix.gnu.org/](https://bordeaux.guix.gnu.org/)
 - [https://berlin.guix.gnu.org/](https://berlin.guix.gnu.org/)
 - [https://substitutes.nonguix.org/](https://substitutes.nonguix.org/)
-- [https://packages.pantherx.org/](https://packages.pantherx.org/)
+- [https://substitutes.guix.gofranz.com/](https://substitutes.guix.gofranz.com/)
 - [http://substitutes.guix.sama.re/](http://substitutes.guix.sama.re/)
 - [https://guix.tobias.gr/substitutes/](https://guix.tobias.gr/substitutes/)
 - [https://cuirass.genenetwork.org/](https://cuirass.genenetwork.org/) ([public key](https://git.genenetwork.org/guix-north-america/about/))
