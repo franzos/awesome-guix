@@ -113,6 +113,7 @@ Substitutes (aka pre-build Software) come from here:
 - [https://packages.pantherx.org/](https://packages.pantherx.org/)
 - [http://substitutes.guix.sama.re/](http://substitutes.guix.sama.re/)
 - [https://guix.tobias.gr/substitutes/](https://guix.tobias.gr/substitutes/)
+- [https://cuirass.genenetwork.org/](https://cuirass.genenetwork.org/) ([public key](https://git.genenetwork.org/guix-north-america/about/))
 
 Love the quote, from the last one; though it seems Firefox has fallen into this category too ~
 
