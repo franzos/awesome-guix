@@ -151,6 +151,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [guix-shell-examples](https://github.com/nuthub/guix-shell-examples): Run software that is not available on Guix
 - [flatpak.org/setup](https://flatpak.org/setup/GNU%20Guix): Flatpak on Guix
 - [metacall/guix](https://github.com/metacall/guix): Docker image for using Guix in a CI/CD environment.
+- [kristianlm/hetzner.scm](https://gist.github.com/kristianlm/089a6759a74dcd2e6f702847cf919ed2): Guix on Hetzner Cloud
 
 ## Communities
 
