@@ -74,6 +74,7 @@ Software
 - [asahi-guix/channel](https://codeberg.org/asahi-guix/channel): Run the GNU operating system with the Asahi Linux kernel on Apple Silicon devices.
 - [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface): Implemenation of linux-surface for GNU Guix
 - [kolev/guix-channel](https://codeberg.org/kolev/guix-channel): Channel for Chromebook audio configuration and SUPDUP.
+- [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix): Roquix guix channel
 
 If you are looking for a package index:
 
