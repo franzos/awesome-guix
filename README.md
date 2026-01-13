@@ -143,6 +143,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [franzos/dotfiles](https://github.com/franzos/dotfiles)
 - [berkeley/guix-config](https://codeberg.org/berkeley/guix-config)
 - [hako/Testament](https://codeberg.org/hako/Testament)
+- [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments)
 
 ## Misc
 
