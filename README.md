@@ -187,4 +187,3 @@ Other awesome guix lists:
 - [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/)
 - [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix)
 
-Something's wrong? Submit a MR.
