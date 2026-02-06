@@ -72,6 +72,7 @@ Software
 - [abbe](https://codeberg.org/group/guix-modules): Contains many up-to-date rust and go apps built with custom nix-like build systems, and more.
 - [emacs-master](https://github.com/gs-101/emacs-master): Guix channel for the latest Emacs from the master branch.
 - [pognul-guix-channel](https://codeberg.org/ch4og/pognul-guix-channel): Сustom and nonfree packages.
+- [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop): Latest version of telegram-desktop.
 - [asahi-guix/channel](https://codeberg.org/asahi-guix/channel): Run the GNU operating system with the Asahi Linux kernel on Apple Silicon devices.
 - [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface): Implemenation of linux-surface for GNU Guix
 - [kolev/guix-channel](https://codeberg.org/kolev/guix-channel): Channel for Chromebook audio configuration and SUPDUP.
