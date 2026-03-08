@@ -59,11 +59,11 @@ Software
 - [rosenthal](https://github.com/rakino/Rosenthal): Experiments
 - [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel
 - [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
-- [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix 
+- [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix
 - [guix-rustup](https://github.com/declantsien/guix-rustup): Guix Rustup
 - [guix-tailscale](https://github.com/umanwizard/guix-tailscale): Providing tailscale, tailscaled, and tailscale-service-type
 - [guixrus](https://git.sr.ht/~whereiseveryone/guixrus): A Guix channel, maintained by the whereiseveryone community.
-- [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services 
+- [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services
 - [gundroid](https://github.com/shegeley/gundroid): Android tools packages in Guix
 - [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda): Haskell, Rust packages and toolchain, libre audio software, emacs-next, among others
 - [guix-cran](https://github.com/guix-science/guix-cran): Contains all R packages not available in Guix yet.
@@ -78,6 +78,7 @@ Software
 - [kolev/guix-channel](https://codeberg.org/kolev/guix-channel): Channel for Chromebook audio configuration and SUPDUP.
 - [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix): Roquix guix channel
 - [minkieyume/chiko-guix-channel](https://codeberg.org/minkieyume/chiko-guix-channel): Minkie Chiko's Guix Channel
+- [Jonabron](https://github.com/librepup/jonabron): Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
 
 If you are looking for a package index:
 
@@ -187,4 +188,3 @@ Other awesome guix lists:
 
 - [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/)
 - [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix)
-
