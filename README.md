@@ -162,6 +162,7 @@ When you're stuck, it's super helpful to see what others are doing:
 
 - guix
   - Libera IRC `#guix`, `#info-guix`, `#guixcn`
+  - Matrix [#guix:matrix.org](https://matrix.to/#/%23guix:matrix.org)
   - [Mailing List](https://guix.gnu.org/contact/)
   - [Reddit r/GUIX](https://www.reddit.com/r/GUIX)
   - Telegram [gnu_guix_en](https://t.me/gnu_guix_en), [gnu_guix_ru](https://t.me/gnu_guix_ru), [gnu_guix_br](https://t.me/gnu_guix_br), [guixcn](https://t.me/guixcn)
