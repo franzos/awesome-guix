@@ -29,6 +29,7 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 
 - [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
 - [System Config Generator](https://www.pantherx.org/configs/) for PantherX OS (similiar to guix)
+- [guix-install](https://github.com/franzos/guix-install): Guix System installer — libre, nonguix, panther, or enterprise
 
 ## Channels
 
