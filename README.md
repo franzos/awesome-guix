@@ -47,7 +47,7 @@ Software
 - [guix-more](https://framagit.org/tyreunom/guix-more): More packages for Guix, not yet accepted upstream or unacceptable
 - [guix-android](https://framagit.org/tyreunom/guix-android): Experimental Guix packages for Android development
 - [duke-nukem-3d](https://gitlab.com/guix-gaming-channels/duke-nukem-3d): Duke Nukem 3D port and mod packages for Guix
-- [guix-chromium](https://gitlab.com/mbakke/guix-chromium): Chromium packaging for Guix
+- [guix-chromium](https://gitlab.com/mbakke/guix-chromium): Chromium packaging for Guix 💤
 - [quake-3](https://gitlab.com/guix-gaming-channels/quake-3): Mod packages for Quake 3 Arena and Quake 3 Team Arena 💤
 - [guix-past](https://codeberg.org/guix-science/guix-past): GNU Guix channel providing packages from the past.
 - [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc): Extensions of GNU Guix for high-performance computing.
