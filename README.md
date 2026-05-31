@@ -134,7 +134,7 @@ Want to run your own substitute server? Checkout [cuirass](https://guix.gnu.org/
 When you're stuck, it's super helpful to see what others are doing:
 
 - [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration)
-- [alezost/guix-config](https://github.com/alezost/guix-config)
+- [alezost/guix-config](https://github.com/alezost/guix-config) 💤
 - [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config)
 - [aurtzy/guix-config](https://github.com/aurtzy/guix-config)
 - [hiecaq/guix-config](https://github.com/hiecaq/guix-config)
