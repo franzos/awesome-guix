@@ -44,7 +44,7 @@ Software
 - [nonguix](https://gitlab.com/nonguix/nonguix): Guix channel for packages that can't be included upstream
 - [pantherx](https://codeberg.org/gofranz/panther): PantherX system and packages
 - [games](https://gitlab.com/guix-gaming-channels/games): Collection of non-free game packages for Guix
-- [guix-more](https://framagit.org/tyreunom/guix-more): More packages for Guix, not yet accepted upstream or unacceptable
+- [guix-more](https://framagit.org/tyreunom/guix-more): More packages for Guix, not yet accepted upstream or unacceptable 💤
 - [guix-android](https://framagit.org/tyreunom/guix-android): Experimental Guix packages for Android development
 - [duke-nukem-3d](https://gitlab.com/guix-gaming-channels/duke-nukem-3d): Duke Nukem 3D port and mod packages for Guix 💤
 - [guix-chromium](https://gitlab.com/mbakke/guix-chromium): Chromium packaging for Guix 💤
