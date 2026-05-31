@@ -149,6 +149,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [berkeley/guix-config](https://codeberg.org/berkeley/guix-config)
 - [hako/Testament](https://codeberg.org/hako/Testament)
 - [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments)
+- [aartaka/guix-config](https://github.com/aartaka/guix-config)
 
 ## Misc
 
