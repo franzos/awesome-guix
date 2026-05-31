@@ -150,6 +150,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [hako/Testament](https://codeberg.org/hako/Testament)
 - [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments)
 - [aartaka/guix-config](https://github.com/aartaka/guix-config)
+- [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config)
 
 ## Misc
 
