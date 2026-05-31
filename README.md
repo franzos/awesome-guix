@@ -138,7 +138,6 @@ When you're stuck, it's super helpful to see what others are doing:
 - [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) 💤
 - [aurtzy/guix-config](https://github.com/aurtzy/guix-config)
 - [hiecaq/guix-config](https://github.com/hiecaq/guix-config)
-- [thomassgn/guixsd-configuration](https://notabug.org/thomassgn/guixsd-configuration)
 - [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix)
 - [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads)
 - [rommudoh/guix](https://codeberg.org/rommudoh/guix)
