@@ -187,5 +187,5 @@ Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/
 
 Other awesome guix lists:
 
-- [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/)
+- [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/) 💤
 - [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix)
