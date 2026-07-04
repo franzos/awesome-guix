@@ -100,7 +100,7 @@ If you are looking for a package index:
 	- [codeberg issues](https://codeberg.org/guix/guix/issues)
 	- legacy mail-based issue tracker: [debbugs](https://issues.guix.gnu.org/)
 - [nonguix](https://gitlab.com/nonguix/nonguix/-/issues)
-- [pantherx](https://github.com/PantherXOS/panther/issues)
+- [pantherx](https://github.com/franzos/panther/issues)
 
 ## Distributions
 
