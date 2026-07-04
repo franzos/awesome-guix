@@ -98,7 +98,6 @@ If you are looking for a package index:
 
 - Guix itself:
 	- [codeberg issues](https://codeberg.org/guix/guix/issues)
-	- legacy mail-based issue tracker: [debbugs](https://issues.guix.gnu.org/)
 - [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
 - [pantherx](https://github.com/franzos/panther/issues)
 
