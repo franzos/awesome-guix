@@ -73,7 +73,6 @@ Software
 - [radix](https://codeberg.org/anemofilia/radix): Personal GNU Guix channel, which contains Free Software only.
 - [abbe](https://codeberg.org/group/guix-modules): Contains many up-to-date rust and go apps built with custom nix-like build systems, and more.
 - [emacs-master](https://github.com/gs-101/emacs-master): Guix channel for the latest Emacs from the master branch.
-- [pognul-guix-channel](https://codeberg.org/ch4og/pognul-guix-channel): Сustom and nonfree packages.
 - [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop): Latest version of telegram-desktop.
 - [asahi-guix/channel](https://codeberg.org/asahi-guix/channel): Run the GNU operating system with the Asahi Linux kernel on Apple Silicon devices.
 - [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface): Implemenation of linux-surface for GNU Guix
@@ -149,6 +148,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments)
 - [aartaka/guix-config](https://github.com/aartaka/guix-config)
 - [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config)
+- [ch4og/koshinox](https://codeberg.org/ch4og/koshinox): Shikanox (GNU Guix System + Guix Home + Nix Home Manager) configuration
 
 ## Misc
 
