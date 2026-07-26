@@ -32,6 +32,7 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 - [System Config Generator](https://www.pantherx.org/configs/) for PantherX OS (similiar to guix)
 - [guix-install](https://github.com/franzos/guix-install): Guix System installer — libre, nonguix, panther, or enterprise
 - [guix-rs](https://github.com/franzos/guix-rs): Unofficial GUI for day-to-day Guix usage
+- [esquema](https://github.com/cristiancmoises/esquema): Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
 
 ## Channels
 
