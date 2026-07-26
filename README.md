@@ -21,6 +21,7 @@ Also helpful:
 - [A Home Router with GNU Guix](https://timmydouglas.com/2021/02/07/guix-router.html)
 - [YouTube Playlist: All about Guile and Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ)
 - [YouTube Playlist: Craft Your System with GNU Guix](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
+- [YouTube: How to Install GNU Guix System (2027 Edition)](https://www.youtube.com/watch?v=3mbCH7sBLeI)
 - [Shell examples: Run software that's not available on guix](https://github.com/nuthub/guix-shell-examples)
 - [Build React Native Android Apps on Guix](https://gofranz.com/blog/react-native-android-on-guix-without-docker/)
 
