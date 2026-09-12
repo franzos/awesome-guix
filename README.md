@@ -19,7 +19,7 @@ Also helpful:
 - [Installing the GNU Guix Package Manager](https://systemcrafters.net/craft-your-system-with-guix/installing-the-package-manager/) on Debian, Arch, Fedora ..
 - [Guix Gaming Desktop](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
 - [A Home Router with GNU Guix](https://timmydouglas.com/2021/02/07/guix-router.html)
-- [YouTube Playlist: All about Guile and Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ)
+- [YouTube Playlist: GNU Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ) by Andrew Tropin
 - [YouTube Playlist: Craft Your System with GNU Guix](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
 - [YouTube: How to Install GNU Guix System (2027 Edition)](https://www.youtube.com/watch?v=3mbCH7sBLeI)
 - [Shell examples: Run software that's not available on guix](https://codeberg.org/nutcase/guix-shell-examples)
