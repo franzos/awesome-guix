@@ -139,7 +139,7 @@ When you're stuck, it's super helpful to see what others are doing:
 - [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads)
 - [rommudoh/guix](https://codeberg.org/rommudoh/guix)
 - [anemofilia/zero](https://codeberg.org/anemofilia/zero)
-- [jba23/sss](https://codeberg.org/jjba23/sss)
+- [jjba23/sss](https://codeberg.org/jjba23/sss) 💤
 - [hako/Testament](https://codeberg.org/hako/Testament)
 - [look/misako](https://codeberg.org/look/misako)
 - [VnPower/rkgk](https://codeberg.org/VnPower/rkgk)
