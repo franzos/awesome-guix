@@ -37,6 +37,7 @@ Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcem
 - [guix-rs](https://github.com/franzos/guix-rs): Unofficial GUI for day-to-day Guix usage
 - [esquema](https://github.com/cristiancmoises/esquema): Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
 - [Guix Data Service](https://data.guix.gnu.org/): Query packages, derivations and lint warnings for any revision of Guix
+- [Guix QA](https://qa.guix.gnu.org/): Build status of the team branches queued for merge into master
 
 ## Channels
 
