@@ -1,6 +1,6 @@
 # A collection of awesome guix-things
 
-> 💤 marks entries with no updates for 6+ years — likely unmaintained, but often still useful as a reference.
+> 💤 marks entries with no updates for 3+ years, or archived — likely unmaintained, but often still useful as a reference.
 
 ## Docs, Videos
 
