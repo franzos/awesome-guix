@@ -14,7 +14,7 @@ Also helpful:
 
 - [pjotrp/guix-notes](https://gitlab.com/pjotrp/guix-notes)
 - [The Guix System image API](https://othacehe.org/the-guix-system-image-api.html)
-- [Guile Hacker's Notebook](https://jeko.frama.io/)
+- [The Guile Hacker Handbook](https://jeko.frama.io/)
 - [5 Reasons to Try GNU Guix in 2022](https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/)
 - [Installing the GNU Guix Package Manager](https://systemcrafters.net/craft-your-system-with-guix/installing-the-package-manager/) on Debian, Arch, Fedora ..
 - [Guix Gaming Desktop](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
