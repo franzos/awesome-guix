@@ -56,6 +56,7 @@ Software
 - [quake-3](https://gitlab.com/guix-gaming-channels/quake-3): Mod packages for Quake 3 Arena and Quake 3 Team Arena 💤
 - [guix-past](https://codeberg.org/guix-science/guix-past): GNU Guix channel providing packages from the past.
 - [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc): Extensions of GNU Guix for high-performance computing.
+- [guix-hpc-non-free](https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free): Non-free HPC software, or free software with non-free dependencies.
 - [guix-science](https://codeberg.org/guix-science/guix-science): Free scientific packages for GNU Guix.
 - [guix-science-nonfree](https://codeberg.org/guix-science/guix-science-nonfree): Non-free scientific packages for GNU Guix.
 - [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
