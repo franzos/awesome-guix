@@ -7,6 +7,7 @@
 What, how
 
 - [guix manual, html](https://guix.gnu.org/manual/en/html_node/)
+- [guix cookbook](https://guix.gnu.org/cookbook/en/): tutorials and worked examples — packaging, Scheme crash course, system config
 - [guix reference](https://guix.gnu.org/guix-refcard.pdf) (must-have!)
 - [pantherx wiki](https://wiki.pantherx.org/Table-of-contents/)
 
