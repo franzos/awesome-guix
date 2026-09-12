@@ -92,6 +92,7 @@ Software
 - [guix-bitcoin](https://codeberg.org/trevarj/guix-bitcoin): Bitcoin ecosystem - nodes, wallets, Lightning, indexers and block explorers.
 - [guix-astro](https://codeberg.org/vleugelcomplement/guix-astro): Astrophysics-adjacent codes which are not yet included upstream.
 - [guix-discord](https://github.com/jack-faller/guix-discord): Discord, and some Discord related packages.
+- [aagl-guix](https://codeberg.org/ch4og/aagl-guix): Run an-anime-team launchers on Guix.
 
 If you are looking for a package index:
 
