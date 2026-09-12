@@ -91,6 +91,7 @@ Software
 - [guix-eda](https://codeberg.org/fsi/guix-eda): Electronic design automation, with pinned versions for specific purposes.
 - [guix-bitcoin](https://codeberg.org/trevarj/guix-bitcoin): Bitcoin ecosystem - nodes, wallets, Lightning, indexers and block explorers.
 - [guix-astro](https://codeberg.org/vleugelcomplement/guix-astro): Astrophysics-adjacent codes which are not yet included upstream.
+- [guix-discord](https://github.com/jack-faller/guix-discord): Discord, and some Discord related packages.
 
 If you are looking for a package index:
 
