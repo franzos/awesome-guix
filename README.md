@@ -88,6 +88,7 @@ Software
 - [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix): Roquix guix channel
 - [minkieyume/chiko-guix-channel](https://codeberg.org/minkieyume/chiko-guix-channel): Minkie Chiko's Guix Channel
 - [Jonabron](https://github.com/librepup/jonabron): Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
+- [guix-eda](https://codeberg.org/fsi/guix-eda): Electronic design automation, with pinned versions for specific purposes.
 
 If you are looking for a package index:
 
