@@ -2,9 +2,9 @@
 
 > Package manager and distribution of the GNU system with reproducible, transactional upgrades.
 
-[<img src="https://codeberg.org/guix/artwork/raw/branch/master/logo/head-only/Guix-head.svg" align="right" width="120" alt="Guix">](https://guix.gnu.org/)
+[<img src="https://codeberg.org/guix/artwork/raw/branch/master/logo/head-only/Guix-head.svg" align="right" width="120" alt="Guix">](https://guix.gnu.org/en/about/)
 
-GNU Guix is a functional package manager and a distribution of the GNU operating system. Every package is built in an isolated environment and stored under a hash of all its inputs, so the same definition produces the same result on any machine, and pre-built substitutes can stand in for local builds. Packages, services, home environments and whole operating systems are declared in Guile Scheme. Every change is a transaction: an upgrade either completes or leaves the system untouched, and each generation can be rolled back, down to the boot menu. Guix runs as a standalone package manager on top of any GNU/Linux distribution, or as Guix System, where the entire machine is configured from a single file. The distribution ships only free software and is bootstrapped from a small, auditable binary seed.
+[GNU Guix](https://guix.gnu.org/) is a functional package manager and a distribution of the GNU operating system. Every package is built in an isolated environment and stored under a hash of all its inputs, so the same definition produces the same result on any machine, and pre-built substitutes can stand in for local builds. Packages, services, home environments and whole operating systems are declared in Guile Scheme. Every change is a transaction: an upgrade either completes or leaves the system untouched, and each generation can be rolled back, down to the boot menu. Guix runs as a standalone package manager on top of any GNU/Linux distribution, or as Guix System, where the entire machine is configured from a single file. The distribution ships only free software and is bootstrapped from a small, auditable binary seed.
 
 ## Contents
 
@@ -146,7 +146,7 @@ Want to run your own substitute server? Check out [Cuirass](https://guix.gnu.org
 When you're stuck, it's super helpful to see what others are doing.
 
 - [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration) - Personal system configuration.
-- [aurtzy/guix-config](https://github.com/aurtzy/guix-config) - System and Home configuration modularized with "mods", an extension to Guix records.
+- [aurtzy/guix-config](https://github.com/aurtzy/guix-config) - System and home configuration modularized with "mods", an extension to Guix records.
 - [hiecaq/guix-config](https://github.com/hiecaq/guix-config) - Literate Org configuration covering system, home and channels.
 - [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) - Guix configuration in literate dotfiles, tangled from Org and linked with GNU Stow.
 - [anemofilia/zero](https://codeberg.org/anemofilia/zero) - Modular system and home environments that keep desktop concerns out of the operating system.
@@ -155,7 +155,7 @@ When you're stuck, it's super helpful to see what others are doing.
 - [VnPower/rkgk](https://codeberg.org/VnPower/rkgk) - Lisp-machine-style desktop on Guix System.
 - [mrh/dotfiles](https://codeberg.org/mrh/dotfiles) - Per-machine Guix System configurations alongside an Emacs setup.
 - [franzos/dotfiles](https://github.com/franzos/dotfiles) - Two-host Guix System configuration with a shared module and system hardening.
-- [berkeley/guix-config](https://codeberg.org/berkeley/guix-config) - Hardened, minimal System and Home configuration with XMonad, River and Sway desktops.
+- [berkeley/guix-config](https://codeberg.org/berkeley/guix-config) - Hardened, minimal system and home configuration with XMonad, River and Sway desktops.
 - [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments) - Opinionated operating-system definitions, distributed as a signed channel.
 - [aartaka/guix-config](https://github.com/aartaka/guix-config) - System configuration and a large development manifest.
 
