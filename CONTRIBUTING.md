@@ -16,10 +16,4 @@ The description starts with a capital letter and doesn't repeat the entry name. 
 
 ## Unmaintained entries
 
-Entries with no updates for 3+ years, or archived, are marked with a trailing 💤, e.g.:
-
-```
-- [some/guix-config](https://example.com/some/guix-config) - Personal Guix configuration. 💤
-```
-
-The marker is a heads-up, not a removal - old configs in particular often stay useful as references. Entries that 404 or have moved should be removed instead.
+Entries with no updates for 3+ years, or archived, move to [unmaintained.md](unmaintained.md), under the same section they had in the README. Old configs in particular often stay useful as references. Entries that 404 or have moved should be removed instead.

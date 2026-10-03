@@ -1,8 +1,10 @@
 # Awesome Guix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Docs, tools, channels, configs and communities around GNU Guix, the functional package manager and operating system.
+> Package manager and distribution of the GNU system with reproducible, transactional upgrades.
 
-💤 marks entries with no updates for 3+ years, or archived - likely unmaintained, but often still useful as a reference.
+[<img src="https://codeberg.org/guix/artwork/raw/branch/master/logo/head-only/Guix-head.svg" align="right" width="120" alt="Guix">](https://guix.gnu.org/)
+
+GNU Guix is a functional package manager and a distribution of the GNU operating system. Every package is built in an isolated environment and stored under a hash of all its inputs, so the same definition produces the same result on any machine, and pre-built substitutes can stand in for local builds. Packages, services, home environments and whole operating systems are declared in Guile Scheme. Every change is a transaction: an upgrade either completes or leaves the system untouched, and each generation can be rolled back, down to the boot menu. Guix runs as a standalone package manager on top of any GNU/Linux distribution, or as Guix System, where the entire machine is configured from a single file. The distribution ships only free software and is bootstrapped from a small, auditable binary seed.
 
 ## Contents
 
@@ -56,11 +58,7 @@
 - [nonguix](https://gitlab.com/nonguix/nonguix) - Packages that can't be included upstream.
 - [pantherx](https://codeberg.org/gofranz/panther) - System and packages for PantherX.
 - [games](https://gitlab.com/guix-gaming-channels/games) - Collection of non-free game packages.
-- [guix-more](https://framagit.org/tyreunom/guix-more) - More packages, not yet accepted upstream or unacceptable. 💤
 - [guix-android](https://framagit.org/tyreunom/guix-android) - Experimental packages for Android development.
-- [duke-nukem-3d](https://gitlab.com/guix-gaming-channels/duke-nukem-3d) - Duke Nukem 3D port and mod packages. 💤
-- [guix-chromium](https://gitlab.com/mbakke/guix-chromium) - Chromium packaging. 💤
-- [quake-3](https://gitlab.com/guix-gaming-channels/quake-3) - Mod packages for Quake 3 Arena and Quake 3 Team Arena. 💤
 - [guix-past](https://codeberg.org/guix-science/guix-past) - Packages from the past.
 - [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc) - Extensions for high-performance computing.
 - [guix-hpc-non-free](https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free) - Non-free HPC software, or free software with non-free dependencies.
@@ -73,7 +71,6 @@
 - [guix-cn](https://github.com/guixcn/guix-channel) - Channel of the Guix China community.
 - [bin-guix](https://github.com/ieugen/bin-guix) - Binary packages.
 - [rosenthal](https://codeberg.org/hako/Rosenthal) - Experiments.
-- [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel) - Flat's Guix channel. 💤
 - [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages) - Guix on WSL2, packages and notes.
 - [guix-wigust](https://github.com/kitnil/guix-wigust) - Extra packages.
 - [guix-rustup](https://github.com/declantsien/guix-rustup) - Rustup toolchains on Guix.
@@ -122,7 +119,7 @@
 
 ## Distributions
 
-- [Guix System](https://guix.gnu.org/) - The GNU operating system built on Guix.
+- [Guix System](https://guix.gnu.org/en/download/) - The GNU operating system built on Guix.
 - [PantherX](https://www.pantherx.org/) - Guix-based distribution with its own channel and tooling.
 - [rde](https://sr.ht/~abcdw/rde/) - Developer and power-user environment built on Guix.
 
@@ -149,25 +146,18 @@ Want to run your own substitute server? Check out [Cuirass](https://guix.gnu.org
 When you're stuck, it's super helpful to see what others are doing.
 
 - [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration) - Personal system configuration.
-- [alezost/guix-config](https://github.com/alezost/guix-config) - Personal Guix configuration. 💤
-- [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) - Personal Guix configuration. 💤
-- [aurtzy/guix-config](https://github.com/aurtzy/guix-config) - Personal Guix configuration.
-- [hiecaq/guix-config](https://github.com/hiecaq/guix-config) - Personal Guix configuration.
-- [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) - Guix configuration within a dotfiles repository.
-- [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads) - CI configuration of the nonguix build farm.
-- [rommudoh/guix](https://codeberg.org/rommudoh/guix) - Personal Guix configuration.
-- [anemofilia/zero](https://codeberg.org/anemofilia/zero) - Personal Guix configuration.
-- [jjba23/sss](https://codeberg.org/jjba23/sss) - Personal Guix configuration. 💤
-- [hako/Testament](https://codeberg.org/hako/Testament) - Personal Guix configuration.
-- [look/misako](https://codeberg.org/look/misako) - Personal Guix configuration.
-- [VnPower/rkgk](https://codeberg.org/VnPower/rkgk) - Personal Guix configuration.
-- [mrh/dotfiles](https://codeberg.org/mrh/dotfiles) - Dotfiles with Guix configuration.
-- [franzos/dotfiles](https://github.com/franzos/dotfiles) - Dotfiles with Guix configuration.
-- [berkeley/guix-config](https://codeberg.org/berkeley/guix-config) - Personal Guix configuration.
-- [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments) - Guix deployment configurations.
-- [aartaka/guix-config](https://github.com/aartaka/guix-config) - Personal Guix configuration.
-- [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config) - Personal Guix configuration.
-- [ch4og/koshinox](https://codeberg.org/ch4og/koshinox) - Shikanox (GNU Guix System + Guix Home + Nix Home Manager) configuration.
+- [aurtzy/guix-config](https://github.com/aurtzy/guix-config) - System and Home configuration modularized with "mods", an extension to Guix records.
+- [hiecaq/guix-config](https://github.com/hiecaq/guix-config) - Literate Org configuration covering system, home and channels.
+- [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) - Guix configuration in literate dotfiles, tangled from Org and linked with GNU Stow.
+- [anemofilia/zero](https://codeberg.org/anemofilia/zero) - Modular system and home environments that keep desktop concerns out of the operating system.
+- [hako/Testament](https://codeberg.org/hako/Testament) - Literate Guix System configurations, dotfiles and live CD images, built with BLUE.
+- [look/misako](https://codeberg.org/look/misako) - Modular system and home configurations, companion to the saayix channel.
+- [VnPower/rkgk](https://codeberg.org/VnPower/rkgk) - Lisp-machine-style desktop on Guix System.
+- [mrh/dotfiles](https://codeberg.org/mrh/dotfiles) - Per-machine Guix System configurations alongside an Emacs setup.
+- [franzos/dotfiles](https://github.com/franzos/dotfiles) - Two-host Guix System configuration with a shared module and system hardening.
+- [berkeley/guix-config](https://codeberg.org/berkeley/guix-config) - Hardened, minimal System and Home configuration with XMonad, River and Sway desktops.
+- [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments) - Opinionated operating-system definitions, distributed as a signed channel.
+- [aartaka/guix-config](https://github.com/aartaka/guix-config) - System configuration and a large development manifest.
 
 ## Misc
 
@@ -197,6 +187,8 @@ When you're stuck, it's super helpful to see what others are doing.
 
 ## Related Lists
 
-- [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/) - Another Guix list. 💤
-- [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix) - Another Guix list. 💤
 - [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Another Guix list.
+
+## Footnotes
+
+Unmaintained and archived entries, still useful as references, are listed in [unmaintained.md](unmaintained.md).
