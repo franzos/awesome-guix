@@ -1,204 +1,202 @@
-# A collection of awesome guix-things
+# Awesome Guix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 💤 marks entries with no updates for 3+ years, or archived — likely unmaintained, but often still useful as a reference.
+> Docs, tools, channels, configs and communities around GNU Guix, the functional package manager and operating system.
 
-## Docs, Videos
+💤 marks entries with no updates for 3+ years, or archived - likely unmaintained, but often still useful as a reference.
 
-What, how
+## Contents
 
-- [guix manual, html](https://guix.gnu.org/manual/en/html_node/)
-- [guix cookbook](https://guix.gnu.org/cookbook/en/): tutorials and worked examples — packaging, Scheme crash course, system config
-- [guix reference](https://guix.gnu.org/guix-refcard.pdf) (must-have!)
-- [guix help](https://guix.gnu.org/en/help/): videos, tutorials and where to ask
-- [pantherx wiki](https://wiki.pantherx.org/Table-of-contents/)
+- [Docs and Videos](#docs-and-videos)
+- [Tools](#tools)
+- [Channels](#channels)
+- [Distributions](#distributions)
+- [Build Servers](#build-servers)
+- [Config Examples](#config-examples)
+- [Misc](#misc)
+- [Communities](#communities)
+- [Guix on Other Distros](#guix-on-other-distros)
 
-Also helpful:
+## Docs and Videos
 
-- [pjotrp/guix-notes](https://gitlab.com/pjotrp/guix-notes)
-- [The Guix System image API](https://othacehe.org/the-guix-system-image-api.html)
-- [The Guile Hacker Handbook](https://jeko.frama.io/)
-- [5 Reasons to Try GNU Guix in 2022](https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/)
-- [Installing the GNU Guix Package Manager](https://systemcrafters.net/craft-your-system-with-guix/installing-the-package-manager/) on Debian, Arch, Fedora ..
-- [Guix Gaming Desktop](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
-- [A Home Router with GNU Guix](https://timmydouglas.com/2021/02/07/guix-router.html)
-- [YouTube Playlist: GNU Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ) by Andrew Tropin
-- [YouTube Playlist: Craft Your System with GNU Guix](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
-- [YouTube: How to Install GNU Guix System (2027 Edition)](https://www.youtube.com/watch?v=3mbCH7sBLeI)
-- [Shell examples: Run software that's not available on guix](https://codeberg.org/nutcase/guix-shell-examples)
-- [Build React Native Android Apps on Guix](https://gofranz.com/blog/react-native-android-on-guix-without-docker/)
+- [Guix Manual](https://guix.gnu.org/manual/en/html_node/) - The reference manual.
+- [Guix Cookbook](https://guix.gnu.org/cookbook/en/) - Tutorials and worked examples: packaging, Scheme crash course, system config.
+- [Guix Reference Card](https://guix.gnu.org/guix-refcard.pdf) - Must-have cheat sheet.
+- [Guix Help](https://guix.gnu.org/en/help/) - Videos, tutorials and where to ask.
+- [Guix Blog](https://guix.gnu.org/en/blog/) - Announcements, packaging guides and things like [Music Production on Guix System](https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/).
+- [PantherX Wiki](https://wiki.pantherx.org/Table-of-contents/) - Guides for PantherX, most of which apply to Guix System.
 
-Definitely checkout the [Guix Blog](https://guix.gnu.org/en/blog/) for announcements, guides on how-to package stuff and cool things like [Music Production on Guix System](https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/).
+### Articles and Videos
+
+- [pjotrp/guix-notes](https://gitlab.com/pjotrp/guix-notes) - Notes on using and packaging with Guix.
+- [The Guix System Image API](https://othacehe.org/the-guix-system-image-api.html) - Building disk images with Guix.
+- [The Guile Hacker Handbook](https://jeko.frama.io/) - Learning Guile by building things.
+- [5 Reasons to Try GNU Guix in 2022](https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/) - The case for Guix, by System Crafters.
+- [Installing the GNU Guix Package Manager](https://systemcrafters.net/craft-your-system-with-guix/installing-the-package-manager/) - On Debian, Arch, Fedora and others.
+- [Guix Gaming Desktop](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/) - Building a Linux gaming desktop on Guix.
+- [A Home Router with GNU Guix](https://timmydouglas.com/2021/02/07/guix-router.html) - Running a home router on Guix System.
+- [YouTube Playlist: GNU Guix](https://www.youtube.com/playlist?list=PLZmotIJq3yOI0cPPQ07urjm6VMnb8GDSQ) - By Andrew Tropin.
+- [YouTube Playlist: Craft Your System with GNU Guix](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU) - By System Crafters.
+- [YouTube: How to Install GNU Guix System (2027 Edition)](https://www.youtube.com/watch?v=3mbCH7sBLeI) - Installation walkthrough.
+- [Shell Examples](https://codeberg.org/nutcase/guix-shell-examples) - Run software that's not available on Guix.
+- [Build React Native Android Apps on Guix](https://gofranz.com/blog/react-native-android-on-guix-without-docker/) - Android builds without Docker.
 
 ## Tools
 
-- [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/): Write a package definition in a breeze
-- [System Config Generator](https://www.pantherx.org/configs/) for PantherX OS (similiar to guix)
-- [guix-install](https://github.com/franzos/guix-install): Guix System installer — libre, nonguix, panther, or enterprise
-- [guix-rs](https://github.com/franzos/guix-rs): Unofficial GUI for day-to-day Guix usage
-- [esquema](https://github.com/cristiancmoises/esquema): Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd
-- [Guix Data Service](https://data.guix.gnu.org/): Query packages, derivations and lint warnings for any revision of Guix
-- [Guix QA](https://qa.guix.gnu.org/): Build status of the team branches queued for merge into master
+- [Guix Packager](https://guix-hpc.gitlabpages.inria.fr/guix-packager/) - Write a package definition in a breeze.
+- [System Config Generator](https://www.pantherx.org/configs/) - Config generator for PantherX OS (similar to Guix).
+- [guix-install](https://github.com/franzos/guix-install) - Guix System installer: libre, nonguix, panther, or enterprise.
+- [guix-rs](https://github.com/franzos/guix-rs) - Unofficial GUI for day-to-day Guix usage.
+- [esquema](https://github.com/cristiancmoises/esquema) - Rootless, daemon-free container runtime written in Scheme, integrating with Guix and Shepherd.
+- [Guix Data Service](https://data.guix.gnu.org/) - Query packages, derivations and lint warnings for any revision of Guix.
+- [Guix QA](https://qa.guix.gnu.org/) - Build status of the team branches queued for merge into master.
 
 ## Channels
 
-Software
+- [guix](https://codeberg.org/guix/guix) - The primary channel. Legacy repository on [GNU Savannah](https://git.savannah.gnu.org/cgit/guix.git).
+- [nonguix](https://gitlab.com/nonguix/nonguix) - Packages that can't be included upstream.
+- [pantherx](https://codeberg.org/gofranz/panther) - System and packages for PantherX.
+- [games](https://gitlab.com/guix-gaming-channels/games) - Collection of non-free game packages.
+- [guix-more](https://framagit.org/tyreunom/guix-more) - More packages, not yet accepted upstream or unacceptable. 💤
+- [guix-android](https://framagit.org/tyreunom/guix-android) - Experimental packages for Android development.
+- [duke-nukem-3d](https://gitlab.com/guix-gaming-channels/duke-nukem-3d) - Duke Nukem 3D port and mod packages. 💤
+- [guix-chromium](https://gitlab.com/mbakke/guix-chromium) - Chromium packaging. 💤
+- [quake-3](https://gitlab.com/guix-gaming-channels/quake-3) - Mod packages for Quake 3 Arena and Quake 3 Team Arena. 💤
+- [guix-past](https://codeberg.org/guix-science/guix-past) - Packages from the past.
+- [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc) - Extensions for high-performance computing.
+- [guix-hpc-non-free](https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free) - Non-free HPC software, or free software with non-free dependencies.
+- [guix-science](https://codeberg.org/guix-science/guix-science) - Free scientific packages.
+- [guix-science-nonfree](https://codeberg.org/guix-science/guix-science-nonfree) - Non-free scientific packages.
+- [guix-ost](https://gitlab.ost.ch/scl/guix-ost) - Software recipes for the HPC-RJ Cluster.
+- [sops-guix](https://github.com/fishinthecalculator/sops-guix) - Secure secret management with Guix.
+- [gocix](https://github.com/fishinthecalculator/gocix) - Community managed library of Guix services.
+- [small-guix](https://codeberg.org/fishinthecalculator/small-guix.git) - Small Guix.
+- [guix-cn](https://github.com/guixcn/guix-channel) - Channel of the Guix China community.
+- [bin-guix](https://github.com/ieugen/bin-guix) - Binary packages.
+- [rosenthal](https://codeberg.org/hako/Rosenthal) - Experiments.
+- [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel) - Flat's Guix channel. 💤
+- [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages) - Guix on WSL2, packages and notes.
+- [guix-wigust](https://github.com/kitnil/guix-wigust) - Extra packages.
+- [guix-rustup](https://github.com/declantsien/guix-rustup) - Rustup toolchains on Guix.
+- [guix-tailscale](https://github.com/umanwizard/guix-tailscale) - Provides tailscale, tailscaled, and tailscale-service-type.
+- [guixrus](https://git.sr.ht/~whereiseveryone/guixrus) - Channel maintained by the whereiseveryone community.
+- [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto) - Crypto and Blockchain related packages and services.
+- [gundroid](https://github.com/shegeley/gundroid) - Android tools packages.
+- [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda) - Haskell, Rust packages and toolchain, libre audio software, emacs-next, among others.
+- [guix-cran](https://github.com/guix-science/guix-cran) - All R packages not available in Guix yet.
+- [guix-bioc](https://github.com/guix-science/guix-bioc) - The entire Bioconductor collection, generated like guix-cran.
+- [saayix](https://codeberg.org/look/saayix) - Personal channel for developing and sharing services and packages.
+- [radix](https://codeberg.org/anemofilia/radix) - Personal channel, which contains Free Software only.
+- [abbe](https://codeberg.org/group/guix-modules) - Many up-to-date Rust and Go apps built with custom nix-like build systems, and more.
+- [emacs-master](https://github.com/gs-101/emacs-master) - The latest Emacs from the master branch.
+- [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop) - Latest version of telegram-desktop.
+- [asahi-guix/channel](https://codeberg.org/asahi-guix/channel) - Run the GNU operating system with the Asahi Linux kernel on Apple Silicon devices.
+- [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface) - Implementation of linux-surface for GNU Guix.
+- [kolev/guix-channel](https://codeberg.org/kolev/guix-channel) - Chromebook audio configuration and SUPDUP.
+- [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix) - Roquix Guix channel.
+- [minkieyume/chiko-guix-channel](https://codeberg.org/minkieyume/chiko-guix-channel) - Minkie Chiko's Guix channel.
+- [Jonabron](https://github.com/librepup/jonabron) - Provides osu!lazer, Vicinae, Discord, and more.
+- [guix-eda](https://codeberg.org/fsi/guix-eda) - Electronic design automation, with pinned versions for specific purposes.
+- [guix-bitcoin](https://codeberg.org/trevarj/guix-bitcoin) - Bitcoin ecosystem: nodes, wallets, Lightning, indexers and block explorers.
+- [guix-astro](https://codeberg.org/vleugelcomplement/guix-astro) - Astrophysics-adjacent codes which are not yet included upstream.
+- [guix-discord](https://github.com/jack-faller/guix-discord) - Discord, and some Discord related packages.
+- [aagl-guix](https://codeberg.org/ch4og/aagl-guix) - Run an-anime-team launchers on Guix.
+- [Jasmine](https://codeberg.org/SameExpert/guix-jasmine) - Application and desktop themes.
 
-- Primary channel:
-	- [codeberg](https://codeberg.org/guix/guix)
-	- legacy repository: [GNU savannah](https://git.savannah.gnu.org/cgit/guix.git)
-- [nonguix](https://gitlab.com/nonguix/nonguix): Guix channel for packages that can't be included upstream
-- [pantherx](https://codeberg.org/gofranz/panther): PantherX system and packages
-- [games](https://gitlab.com/guix-gaming-channels/games): Collection of non-free game packages for Guix
-- [guix-more](https://framagit.org/tyreunom/guix-more): More packages for Guix, not yet accepted upstream or unacceptable 💤
-- [guix-android](https://framagit.org/tyreunom/guix-android): Experimental Guix packages for Android development
-- [duke-nukem-3d](https://gitlab.com/guix-gaming-channels/duke-nukem-3d): Duke Nukem 3D port and mod packages for Guix 💤
-- [guix-chromium](https://gitlab.com/mbakke/guix-chromium): Chromium packaging for Guix 💤
-- [quake-3](https://gitlab.com/guix-gaming-channels/quake-3): Mod packages for Quake 3 Arena and Quake 3 Team Arena 💤
-- [guix-past](https://codeberg.org/guix-science/guix-past): GNU Guix channel providing packages from the past.
-- [guix-hpc](https://gitlab.inria.fr/guix-hpc/guix-hpc): Extensions of GNU Guix for high-performance computing.
-- [guix-hpc-non-free](https://gitlab.inria.fr/guix-hpc/guix-hpc-non-free): Non-free HPC software, or free software with non-free dependencies.
-- [guix-science](https://codeberg.org/guix-science/guix-science): Free scientific packages for GNU Guix.
-- [guix-science-nonfree](https://codeberg.org/guix-science/guix-science-nonfree): Non-free scientific packages for GNU Guix.
-- [guix-ost](https://gitlab.ost.ch/scl/guix-ost): Software recipes for the HPC-RJ Cluster
-- [sops-guix](https://github.com/fishinthecalculator/sops-guix): Secure secret management with Guix
-- [gocix](https://github.com/fishinthecalculator/gocix): Community managed library of Guix services
-- [small-guix](https://codeberg.org/fishinthecalculator/small-guix.git): Small Guix
-- [guix-cn](https://github.com/guixcn/guix-channel): Guix China 社区的 Guix 频道
-- [bin-guix](https://github.com/ieugen/bin-guix): Binary packages for guix
-- [rosenthal](https://codeberg.org/hako/Rosenthal): Experiments
-- [flatwhatson/guix-channel](https://github.com/flatwhatson/guix-channel): flat's guix channel 💤
-- [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages): Guix on WSL2, packages and notes
-- [guix-wigust](https://github.com/kitnil/guix-wigust): Extra packages for Guix
-- [guix-rustup](https://github.com/declantsien/guix-rustup): Guix Rustup
-- [guix-tailscale](https://github.com/umanwizard/guix-tailscale): Providing tailscale, tailscaled, and tailscale-service-type
-- [guixrus](https://git.sr.ht/~whereiseveryone/guixrus): A Guix channel, maintained by the whereiseveryone community.
-- [guix-crypto](https://codeberg.org/attila.lendvai/guix-crypto): Home for crypto and blockchain related packages and services
-- [gundroid](https://github.com/shegeley/gundroid): Android tools packages in Guix
-- [divya-lambda](https://codeberg.org/divyaranjan/divya-lambda): Haskell, Rust packages and toolchain, libre audio software, emacs-next, among others
-- [guix-cran](https://github.com/guix-science/guix-cran): Contains all R packages not available in Guix yet.
-- [guix-bioc](https://github.com/guix-science/guix-bioc): The entire Bioconductor collection, generated like guix-cran.
-- [saayix](https://codeberg.org/look/saayix): Personal GNU/Guix channel for developing and sharing services and packages.
-- [radix](https://codeberg.org/anemofilia/radix): Personal GNU Guix channel, which contains Free Software only.
-- [abbe](https://codeberg.org/group/guix-modules): Contains many up-to-date rust and go apps built with custom nix-like build systems, and more.
-- [emacs-master](https://github.com/gs-101/emacs-master): Guix channel for the latest Emacs from the master branch.
-- [guix-telegram-desktop](https://github.com/johnlepikhin/guix-telegram-desktop): Latest version of telegram-desktop.
-- [asahi-guix/channel](https://codeberg.org/asahi-guix/channel): Run the GNU operating system with the Asahi Linux kernel on Apple Silicon devices.
-- [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface): Implemenation of linux-surface for GNU Guix
-- [kolev/guix-channel](https://codeberg.org/kolev/guix-channel): Channel for Chromebook audio configuration and SUPDUP.
-- [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix): Roquix guix channel
-- [minkieyume/chiko-guix-channel](https://codeberg.org/minkieyume/chiko-guix-channel): Minkie Chiko's Guix Channel
-- [Jonabron](https://github.com/librepup/jonabron): Jonabron Channel - provides osu!lazer, Vicinae, Discord, and more.
-- [guix-eda](https://codeberg.org/fsi/guix-eda): Electronic design automation, with pinned versions for specific purposes.
-- [guix-bitcoin](https://codeberg.org/trevarj/guix-bitcoin): Bitcoin ecosystem - nodes, wallets, Lightning, indexers and block explorers.
-- [guix-astro](https://codeberg.org/vleugelcomplement/guix-astro): Astrophysics-adjacent codes which are not yet included upstream.
-- [guix-discord](https://github.com/jack-faller/guix-discord): Discord, and some Discord related packages.
-- [aagl-guix](https://codeberg.org/ch4og/aagl-guix): Run an-anime-team launchers on Guix.
-- [jasmine](https://codeberg.org/SameExpert/guix-jasmine): Application and desktop themes for Guix.
+### Package Indexes
 
-If you are looking for a package index:
-
-- [toys.whereis.social](https://toys.whereis.social/): JSON API for exploring Guix channels on the internets.
-- [packages.guix.gnu.org](https://packages.guix.gnu.org/) (guix)
-- [pantherx.org/packages](https://www.pantherx.org/packages/) (guix, nonguix, pantherx)
-- [hpc.guix.info/browse](https://hpc.guix.info/browse) (guix, guix-hpc, guix-past, guix-science, guix-cran)
+- [toys.whereis.social](https://toys.whereis.social/) - JSON API for exploring Guix channels on the internets.
+- [packages.guix.gnu.org](https://packages.guix.gnu.org/) - Packages in guix.
+- [pantherx.org/packages](https://www.pantherx.org/packages/) - Packages in guix, nonguix and pantherx.
+- [hpc.guix.info/browse](https://hpc.guix.info/browse) - Packages in guix, guix-hpc, guix-past, guix-science and guix-cran.
 
 ### Wishlist
 
-- [Guix/Wishlist](https://libreplanet.org/wiki/Group:Guix/Wishlist): software that users of GNU Guix would like to see packaged
-- [Codeberg/Wishlist](https://codeberg.org/guix/guix/issues?labels=422988): feature/update requests and ideas users would like to see implemented in GNU Guix.
+- [Guix/Wishlist](https://libreplanet.org/wiki/Group:Guix/Wishlist) - Software that users of GNU Guix would like to see packaged.
+- [Codeberg/Wishlist](https://codeberg.org/guix/guix/issues?labels=422988) - Feature and update requests users would like to see implemented in GNU Guix.
 
-### Issue tracker
+### Issue Trackers
 
-- Guix itself:
-	- [codeberg issues](https://codeberg.org/guix/guix/issues)
-- [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items)
-- [pantherx](https://github.com/franzos/panther/issues)
+- [guix](https://codeberg.org/guix/guix/issues) - Issues for Guix itself.
+- [nonguix](https://gitlab.com/nonguix/nonguix/-/work_items) - Issues for the nonguix channel.
+- [pantherx](https://github.com/franzos/panther/issues) - Issues for the PantherX channel.
 
 ## Distributions
 
-- [guix](https://guix.gnu.org/)
-- [pantherx](https://www.pantherx.org/)
-- [rde](https://sr.ht/~abcdw/rde/)
+- [Guix System](https://guix.gnu.org/) - The GNU operating system built on Guix.
+- [PantherX](https://www.pantherx.org/) - Guix-based distribution with its own channel and tooling.
+- [rde](https://sr.ht/~abcdw/rde/) - Developer and power-user environment built on Guix.
 
-## Build Server
+## Build Servers
 
-Substitutes (aka pre-build Software) come from here:
+Substitutes (aka pre-built software) come from here:
 
-- [http://ci.guix.gnu.org/](http://ci.guix.gnu.org/)
-- [https://bordeaux.guix.gnu.org/](https://bordeaux.guix.gnu.org/)
-- [https://berlin.guix.gnu.org/](https://berlin.guix.gnu.org/)
-- [https://substitutes.nonguix.org/](https://substitutes.nonguix.org/)
-- [https://substitutes.guix.gofranz.com/](https://substitutes.guix.gofranz.com/)
-- [https://guix.tobias.gr/substitutes/](https://guix.tobias.gr/substitutes/)
-- [https://cuirass.genenetwork.org/](https://cuirass.genenetwork.org/) ([public key](https://git.genenetwork.org/guix-north-america/about/))
+- [ci.guix.gnu.org](http://ci.guix.gnu.org/) - Official Cuirass build farm.
+- [bordeaux.guix.gnu.org](https://bordeaux.guix.gnu.org/) - Official substitute server.
+- [berlin.guix.gnu.org](https://berlin.guix.gnu.org/) - Official substitute server.
+- [substitutes.nonguix.org](https://substitutes.nonguix.org/) - Substitutes for the nonguix channel.
+- [substitutes.guix.gofranz.com](https://substitutes.guix.gofranz.com/) - Substitutes for the PantherX channel.
+- [guix.tobias.gr](https://guix.tobias.gr/substitutes/) - Third-party substitute server.
+- [cuirass.genenetwork.org](https://cuirass.genenetwork.org/) - GeneNetwork build farm ([public key](https://git.genenetwork.org/guix-north-america/about/)).
 
-Love the quote, from the last one; though it seems Firefox has fallen into this category too ~
+Love the quote, from the last one; though it seems Firefox has fallen into this category too.
 
 > Only malware, such as Chromium, will never be distributed.
 
-Want to run your own substitute server? Checkout [cuirass](https://guix.gnu.org/cuirass/).
+Want to run your own substitute server? Check out [Cuirass](https://guix.gnu.org/cuirass/).
 
 ## Config Examples
 
-When you're stuck, it's super helpful to see what others are doing:
+When you're stuck, it's super helpful to see what others are doing.
 
-- [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration)
-- [alezost/guix-config](https://github.com/alezost/guix-config) 💤
-- [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) 💤
-- [aurtzy/guix-config](https://github.com/aurtzy/guix-config)
-- [hiecaq/guix-config](https://github.com/hiecaq/guix-config)
-- [podiki/dot.me/tree/master/guix](https://github.com/podiki/dot.me/tree/master/guix/.config/guix)
-- [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads)
-- [rommudoh/guix](https://codeberg.org/rommudoh/guix)
-- [anemofilia/zero](https://codeberg.org/anemofilia/zero)
-- [jjba23/sss](https://codeberg.org/jjba23/sss) 💤
-- [hako/Testament](https://codeberg.org/hako/Testament)
-- [look/misako](https://codeberg.org/look/misako)
-- [VnPower/rkgk](https://codeberg.org/VnPower/rkgk)
-- [mrh/dotfiles](https://codeberg.org/mrh/dotfiles)
-- [franzos/dotfiles](https://github.com/franzos/dotfiles)
-- [berkeley/guix-config](https://codeberg.org/berkeley/guix-config)
-- [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments)
-- [aartaka/guix-config](https://github.com/aartaka/guix-config)
-- [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config)
-- [ch4og/koshinox](https://codeberg.org/ch4og/koshinox): Shikanox (GNU Guix System + Guix Home + Nix Home Manager) configuration
+- [tyreunom/system-configuration](https://framagit.org/tyreunom/system-configuration) - Personal system configuration.
+- [alezost/guix-config](https://github.com/alezost/guix-config) - Personal Guix configuration. 💤
+- [dustinlyons/guix-config](https://github.com/dustinlyons/guix-config) - Personal Guix configuration. 💤
+- [aurtzy/guix-config](https://github.com/aurtzy/guix-config) - Personal Guix configuration.
+- [hiecaq/guix-config](https://github.com/hiecaq/guix-config) - Personal Guix configuration.
+- [podiki/dot.me](https://github.com/podiki/dot.me/tree/master/guix/.config/guix) - Guix configuration within a dotfiles repository.
+- [nonguix/cuirass](https://gitlab.com/nonguix/maintenance/-/tree/master/ci?ref_type=heads) - CI configuration of the nonguix build farm.
+- [rommudoh/guix](https://codeberg.org/rommudoh/guix) - Personal Guix configuration.
+- [anemofilia/zero](https://codeberg.org/anemofilia/zero) - Personal Guix configuration.
+- [jjba23/sss](https://codeberg.org/jjba23/sss) - Personal Guix configuration. 💤
+- [hako/Testament](https://codeberg.org/hako/Testament) - Personal Guix configuration.
+- [look/misako](https://codeberg.org/look/misako) - Personal Guix configuration.
+- [VnPower/rkgk](https://codeberg.org/VnPower/rkgk) - Personal Guix configuration.
+- [mrh/dotfiles](https://codeberg.org/mrh/dotfiles) - Dotfiles with Guix configuration.
+- [franzos/dotfiles](https://github.com/franzos/dotfiles) - Dotfiles with Guix configuration.
+- [berkeley/guix-config](https://codeberg.org/berkeley/guix-config) - Personal Guix configuration.
+- [fishinthecalculator/guix-deployments](https://codeberg.org/fishinthecalculator/guix-deployments) - Guix deployment configurations.
+- [aartaka/guix-config](https://github.com/aartaka/guix-config) - Personal Guix configuration.
+- [SunJukebox/guix-config](https://github.com/SunJukebox/guix-config) - Personal Guix configuration.
+- [ch4og/koshinox](https://codeberg.org/ch4og/koshinox) - Shikanox (GNU Guix System + Guix Home + Nix Home Manager) configuration.
 
 ## Misc
 
-- [guix-vm](https://github.com/palfrey/guix-vm): Scripts and support necessary to make a GuixSD Virtualbox image
-- [Distrowatch](https://distrowatch.com/table.php?distribution=guixsd)
-- [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix): Flatpak on Guix
-- [metacall/guix](https://github.com/metacall/guix): Docker image for using Guix in a CI/CD environment.
-- [kristianlm/hetzner.scm](https://gist.github.com/kristianlm/089a6759a74dcd2e6f702847cf919ed2): Guix on Hetzner Cloud
+- [guix-vm](https://github.com/palfrey/guix-vm) - Scripts and support necessary to make a GuixSD VirtualBox image.
+- [DistroWatch](https://distrowatch.com/table.php?distribution=guixsd) - Release history and package versions of Guix System.
+- [flathub.org/setup](https://flathub.org/en/setup/GNU%20Guix) - Flatpak on Guix.
+- [metacall/guix](https://github.com/metacall/guix) - Docker image for using Guix in a CI/CD environment.
+- [kristianlm/hetzner.scm](https://gist.github.com/kristianlm/089a6759a74dcd2e6f702847cf919ed2) - Guix on Hetzner Cloud.
 
 ## Communities
 
-- guix
-  - Libera IRC `#guix`, `#info-guix`, `#guixcn`
-  - Matrix [#guix:matrix.org](https://matrix.to/#/%23guix:matrix.org)
-  - [Mailing List](https://guix.gnu.org/contact/)
-  - [Reddit r/GUIX](https://www.reddit.com/r/GUIX)
-  - Telegram [gnu_guix_en](https://t.me/gnu_guix_en), [gnu_guix_ru](https://t.me/gnu_guix_ru), [gnu_guix_br](https://t.me/gnu_guix_br), [guixcn](https://t.me/guixcn)
-- nonguix
-  - Libera IRC `#nonguix`
+- [Mailing Lists](https://guix.gnu.org/contact/) - Official Guix mailing lists, plus IRC on Libera: `#guix`, `#info-guix`, `#guixcn`, `#nonguix`.
+- [#guix:matrix.org](https://matrix.to/#/%23guix:matrix.org) - Matrix room.
+- [r/GUIX](https://www.reddit.com/r/GUIX) - Subreddit.
+- [gnu_guix_en](https://t.me/gnu_guix_en) - Telegram group, also in [Russian](https://t.me/gnu_guix_ru), [Portuguese](https://t.me/gnu_guix_br) and [Chinese](https://t.me/guixcn).
 
-## Guix on other Distros
+## Guix on Other Distros
 
-- [nix](https://search.nixos.org/packages?query=guix&show=guix)
-- [arch](https://aur.archlinux.org/packages/guix)
-- [debian](https://packages.debian.org/search?keywords=guix)
-- [ubuntu](https://packages.ubuntu.com/search?keywords=guix)
-- [fedora](https://copr.fedorainfracloud.org/coprs/lantw44/guix/)
-- [alpine](https://pkgs.alpinelinux.org/packages?name=guix&branch=edge&arch=)
+- [Guix Binary Installation](https://guix.gnu.org/manual/en/html_node/Binary-Installation.html) - Install almost anywhere.
+- [Guix Desktop-Environment Integration](https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f) - Make Guix-installed applications show up in the host desktop.
+- [Nix](https://search.nixos.org/packages?query=guix&show=guix) - Guix in nixpkgs.
+- [Arch](https://aur.archlinux.org/packages/guix) - Guix in the AUR.
+- [Debian](https://packages.debian.org/search?keywords=guix) - Guix in the Debian archive.
+- [Ubuntu](https://packages.ubuntu.com/search?keywords=guix) - Guix in the Ubuntu archive.
+- [Fedora](https://copr.fedorainfracloud.org/coprs/lantw44/guix/) - Guix via Copr.
+- [Alpine](https://pkgs.alpinelinux.org/packages?name=guix&branch=edge&arch=) - Guix in Alpine edge.
 
-Install almost anywhere: [Guix Binary Installation](https://guix.gnu.org/manual/en/html_node/Binary-Installation.html)
+## Related Lists
 
-- [Guix Desktop-Environment Integration](https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f)
-
----
-
-Other awesome guix lists:
-
-- [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/) 💤
-- [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix) 💤
-- [tieong/awesome-guix](https://github.com/tieong/awesome-guix)
+- [lle-bout/awesome-guix](https://sr.ht/~lle-bout/awesome-guix/) - Another Guix list. 💤
+- [techenthusiastsorg/awesome-guix](https://github.com/techenthusiastsorg/awesome-guix) - Another Guix list. 💤
+- [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Another Guix list.
